@@ -3,7 +3,7 @@
 
 - 📫 I would love to have a chat, please connect at **anshul.6273@gmail.com**
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thevoxium)](https://github.com/thevoxium/github-readme-stats)
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/>

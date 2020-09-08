@@ -3,12 +3,8 @@
 
 - 📫 I would love to have a chat, please connect at **anshul.6273@gmail.com**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thevoxium)](https://github.com/thevoxium/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevoxium)](https://github.com/thevoxium/github-readme-stats)
-
-<br/><br/><br/>
-> Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealphadollar&theme=vue&hide=css,tcl,html"></img>
+<br/><br/>
 <p align="center">
 <a href="https://twitter.com/thevoxium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thevoxium" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/anshul-sharma-38aa481b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anshul_sharma" height="30" width="30" /></a>

@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋! Glad to see you here!!</h1>
-<h3 align="center">I'm a developer having interests in scalability, automation, psychology, and philosophy :star_struck:</h3>
+<h3 align="center">I am interested in Machine learning, Web Scraping and Web development :star_struck:</h3>
 
 - 📫 I would love to have a chat, please connect at **anshul.6273@gmail.com**
 
